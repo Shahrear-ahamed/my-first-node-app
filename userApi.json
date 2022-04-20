@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Sabana",
+    "email": "sabana@gmail.com",
+    "phone": "0178888888"
+  },
+  {
+    "id": 2,
+    "name": "Shabnoor",
+    "email": "Shabnoor@gmail.com",
+    "phone": "0178888888"
+  },
+  {
+    "id": 3,
+    "name": "Suchorita",
+    "email": "Suchorita@gmail.com",
+    "phone": "0178888888"
+  },
+  {
+    "id": 4,
+    "name": "suchonda",
+    "email": "suchonda@gmail.com",
+    "phone": "0178888888"
+  },
+  {
+    "id": 5,
+    "name": "srabonti",
+    "email": "srabonti@gmail.com",
+    "phone": "0178888888"
+  },
+  {
+    "id": 6,
+    "name": "sabila",
+    "email": "sabila@gmail.com",
+    "phone": "0178888888"
+  },
+  {
+    "id": 7,
+    "name": "sohana",
+    "email": "sohana@gmail.com",
+    "phone": "0178888888"
+  }
+]
